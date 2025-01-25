@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:experimental
 ARG ZM_VERSION=master
-ARG S6_ARCH=x86_64
+ARG S6_ARCH=aarch64
 
 #####################################################################
 #                                                                   #
